@@ -21,4 +21,4 @@ and... done! now you can use my mod.
 with this way, you'll can update it more easily in ``opera://extensions/``, by clicking this button ![image](https://user-images.githubusercontent.com/110767037/230416260-05525792-1776-4e5f-b4b4-a388ad9f64c6.png)
 
 ## conclusion
-thanks for reading this! if you need some help, open an issue, or dm me on Discord, i'm a lot active. here's my pseudo : [Wishrito#3945](https://discordapp.com/users/911467405115535411)
+thanks for reading this! if you need some help, open an issue, or dm me on Discord, i'm a lot active. here's my pseudo : [Wishrito](https://discordapp.com/users/911467405115535411)
